@@ -7,10 +7,10 @@ btn.addEventListener('click',function(){
     p.style.textShadow ="0 0 4px blue";
     state = true
 }
-else{
-  p.style.color ="red";
-  p.style.textShadow ="none";
-  state = false;
-}
+// else{
+//   p.style.color ="red";
+//   p.style.textShadow ="none";
+//   state = false;
+// }
 });
 
